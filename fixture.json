@@ -1,0 +1,62 @@
+[
+    {
+        "model": "contas.Conta",
+        "pk": 0,
+        "fields": {
+            "data_leitura_relogio": "2020-10-01",
+            "numero_leitura": 0,
+            "kw": 100,
+            "valor": 132.67,
+            "data_pagamento": "2020-10-01",
+            "media_consumo": 50
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 1,
+        "fields": {
+            "data_leitura_relogio": "2020-10-01",
+            "numero_leitura": 0,
+            "kw": 100,
+            "valor": 132.67,
+            "data_pagamento": "2020-10-01",
+            "media_consumo": 50
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 2,
+        "fields": {
+            "data_leitura_relogio": "2020-10-01",
+            "numero_leitura": 0,
+            "kw": 100,
+            "valor": 132.67,
+            "data_pagamento": "2020-10-01",
+            "media_consumo": 50
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 3,
+        "fields": {
+            "data_leitura_relogio": "2020-10-01",
+            "numero_leitura": 0,
+            "kw": 100,
+            "valor": 132.67,
+            "data_pagamento": "2020-10-01",
+            "media_consumo": 50
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 4,
+        "fields": {
+            "data_leitura_relogio": "2020-10-01",
+            "numero_leitura": 0,
+            "kw": 100,
+            "valor": 132.67,
+            "data_pagamento": "2020-10-01",
+            "media_consumo": 50
+        }
+    }
+]
