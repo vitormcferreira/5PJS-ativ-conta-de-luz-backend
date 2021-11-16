@@ -2,9 +2,9 @@ from django.db import models
 
 
 class Conta(models.Model):
-    # class Meta:
-    #     db_table = 'contas'
-    #     verbose_name = 'Conta de Luz'
+    class Meta:
+        db_table = 'contas'
+        verbose_name = 'Conta de Luz'
 
     data_leitura_relogio = models.DateField()
     numero_leitura = models.IntegerField()
