@@ -15,5 +15,6 @@ router.register(r'contas', views.ContaViewSet)
 
 urlpatterns = [
     path('', include(router.urls)),
+    path('min_max_valor/', views.min_max_valor)
     # path('api-auth/', include('rest_framework.urls', namespace='rest_framework'))
 ]
