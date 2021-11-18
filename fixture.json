@@ -3,60 +3,1008 @@
         "model": "contas.Conta",
         "pk": 0,
         "fields": {
-            "data_leitura_relogio": "2020-10-01",
-            "numero_leitura": 0,
-            "kw": 100,
-            "valor": 132.67,
-            "data_pagamento": "2020-10-01",
-            "media_consumo": 50
+            "data_leitura_relogio": "2015-01-10",
+            "numero_leitura": 30000,
+            "kw": 156,
+            "valor": 98.09,
+            "data_pagamento": "2015-01-01",
+            "media_consumo": 98
         }
     },
     {
         "model": "contas.Conta",
         "pk": 1,
         "fields": {
-            "data_leitura_relogio": "2020-10-01",
-            "numero_leitura": 0,
-            "kw": 100,
-            "valor": 132.67,
-            "data_pagamento": "2020-10-01",
-            "media_consumo": 50
+            "data_leitura_relogio": "2015-02-10",
+            "numero_leitura": 30001,
+            "kw": 305,
+            "valor": 4.5,
+            "data_pagamento": "2015-02-01",
+            "media_consumo": 131
         }
     },
     {
         "model": "contas.Conta",
         "pk": 2,
         "fields": {
-            "data_leitura_relogio": "2020-10-01",
-            "numero_leitura": 0,
-            "kw": 100,
-            "valor": 132.67,
-            "data_pagamento": "2020-10-01",
-            "media_consumo": 50
+            "data_leitura_relogio": "2015-03-10",
+            "numero_leitura": 30002,
+            "kw": 836,
+            "valor": 515.2,
+            "data_pagamento": "2015-03-01",
+            "media_consumo": 115
         }
     },
     {
         "model": "contas.Conta",
         "pk": 3,
         "fields": {
-            "data_leitura_relogio": "2020-10-01",
-            "numero_leitura": 0,
-            "kw": 100,
-            "valor": 132.67,
-            "data_pagamento": "2020-10-01",
-            "media_consumo": 50
+            "data_leitura_relogio": "2015-04-10",
+            "numero_leitura": 30003,
+            "kw": 241,
+            "valor": 348.76,
+            "data_pagamento": "2015-04-01",
+            "media_consumo": 131
         }
     },
     {
         "model": "contas.Conta",
         "pk": 4,
         "fields": {
-            "data_leitura_relogio": "2020-10-01",
-            "numero_leitura": 0,
-            "kw": 100,
-            "valor": 132.67,
+            "data_leitura_relogio": "2015-05-10",
+            "numero_leitura": 30004,
+            "kw": 925,
+            "valor": 41.26,
+            "data_pagamento": "2015-05-01",
+            "media_consumo": 183
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 5,
+        "fields": {
+            "data_leitura_relogio": "2015-06-10",
+            "numero_leitura": 30005,
+            "kw": 722,
+            "valor": 84.66,
+            "data_pagamento": "2015-06-01",
+            "media_consumo": 69
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 6,
+        "fields": {
+            "data_leitura_relogio": "2015-07-10",
+            "numero_leitura": 30006,
+            "kw": 490,
+            "valor": 81.43,
+            "data_pagamento": "2015-07-01",
+            "media_consumo": 81
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 7,
+        "fields": {
+            "data_leitura_relogio": "2015-08-10",
+            "numero_leitura": 30007,
+            "kw": 902,
+            "valor": 210.8,
+            "data_pagamento": "2015-08-01",
+            "media_consumo": 140
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 8,
+        "fields": {
+            "data_leitura_relogio": "2015-09-10",
+            "numero_leitura": 30008,
+            "kw": 153,
+            "valor": 88.88,
+            "data_pagamento": "2015-09-01",
+            "media_consumo": 177
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 9,
+        "fields": {
+            "data_leitura_relogio": "2015-10-10",
+            "numero_leitura": 30009,
+            "kw": 301,
+            "valor": 85.52,
+            "data_pagamento": "2015-10-01",
+            "media_consumo": 86
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 10,
+        "fields": {
+            "data_leitura_relogio": "2015-11-10",
+            "numero_leitura": 30010,
+            "kw": 909,
+            "valor": 107.85,
+            "data_pagamento": "2015-11-01",
+            "media_consumo": 107
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 11,
+        "fields": {
+            "data_leitura_relogio": "2015-12-10",
+            "numero_leitura": 30011,
+            "kw": 955,
+            "valor": 77.11,
+            "data_pagamento": "2015-12-01",
+            "media_consumo": 109
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 12,
+        "fields": {
+            "data_leitura_relogio": "2016-01-10",
+            "numero_leitura": 30012,
+            "kw": 355,
+            "valor": 219.95,
+            "data_pagamento": "2016-01-01",
+            "media_consumo": 106
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 13,
+        "fields": {
+            "data_leitura_relogio": "2016-02-10",
+            "numero_leitura": 30013,
+            "kw": 626,
+            "valor": 337.26,
+            "data_pagamento": "2016-02-01",
+            "media_consumo": 174
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 14,
+        "fields": {
+            "data_leitura_relogio": "2016-03-10",
+            "numero_leitura": 30014,
+            "kw": 825,
+            "valor": 421.8,
+            "data_pagamento": "2016-03-01",
+            "media_consumo": 101
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 15,
+        "fields": {
+            "data_leitura_relogio": "2016-04-10",
+            "numero_leitura": 30015,
+            "kw": 521,
+            "valor": 158.29,
+            "data_pagamento": "2016-04-01",
+            "media_consumo": 91
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 16,
+        "fields": {
+            "data_leitura_relogio": "2016-05-10",
+            "numero_leitura": 30016,
+            "kw": 596,
+            "valor": 380.07,
+            "data_pagamento": "2016-05-01",
+            "media_consumo": 104
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 17,
+        "fields": {
+            "data_leitura_relogio": "2016-06-10",
+            "numero_leitura": 30017,
+            "kw": 108,
+            "valor": 43.97,
+            "data_pagamento": "2016-06-01",
+            "media_consumo": 75
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 18,
+        "fields": {
+            "data_leitura_relogio": "2016-07-10",
+            "numero_leitura": 30018,
+            "kw": 906,
+            "valor": 79.64,
+            "data_pagamento": "2016-07-01",
+            "media_consumo": 118
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 19,
+        "fields": {
+            "data_leitura_relogio": "2016-08-10",
+            "numero_leitura": 30019,
+            "kw": 473,
+            "valor": 44.9,
+            "data_pagamento": "2016-08-01",
+            "media_consumo": 173
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 20,
+        "fields": {
+            "data_leitura_relogio": "2016-09-10",
+            "numero_leitura": 30020,
+            "kw": 288,
+            "valor": 438.87,
+            "data_pagamento": "2016-09-01",
+            "media_consumo": 113
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 21,
+        "fields": {
+            "data_leitura_relogio": "2016-10-10",
+            "numero_leitura": 30021,
+            "kw": 98,
+            "valor": 740.64,
+            "data_pagamento": "2016-10-01",
+            "media_consumo": 51
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 22,
+        "fields": {
+            "data_leitura_relogio": "2016-11-10",
+            "numero_leitura": 30022,
+            "kw": 66,
+            "valor": 76.17,
+            "data_pagamento": "2016-11-01",
+            "media_consumo": 54
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 23,
+        "fields": {
+            "data_leitura_relogio": "2016-12-10",
+            "numero_leitura": 30023,
+            "kw": 66,
+            "valor": 775.93,
+            "data_pagamento": "2016-12-01",
+            "media_consumo": 196
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 24,
+        "fields": {
+            "data_leitura_relogio": "2017-01-10",
+            "numero_leitura": 30024,
+            "kw": 475,
+            "valor": 171.25,
+            "data_pagamento": "2017-01-01",
+            "media_consumo": 165
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 25,
+        "fields": {
+            "data_leitura_relogio": "2017-02-10",
+            "numero_leitura": 30025,
+            "kw": 366,
+            "valor": 36.5,
+            "data_pagamento": "2017-02-01",
+            "media_consumo": 147
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 26,
+        "fields": {
+            "data_leitura_relogio": "2017-03-10",
+            "numero_leitura": 30026,
+            "kw": 763,
+            "valor": 827.97,
+            "data_pagamento": "2017-03-01",
+            "media_consumo": 192
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 27,
+        "fields": {
+            "data_leitura_relogio": "2017-04-10",
+            "numero_leitura": 30027,
+            "kw": 789,
+            "valor": 492.5,
+            "data_pagamento": "2017-04-01",
+            "media_consumo": 159
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 28,
+        "fields": {
+            "data_leitura_relogio": "2017-05-10",
+            "numero_leitura": 30028,
+            "kw": 189,
+            "valor": 409.01,
+            "data_pagamento": "2017-05-01",
+            "media_consumo": 119
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 29,
+        "fields": {
+            "data_leitura_relogio": "2017-06-10",
+            "numero_leitura": 30029,
+            "kw": 164,
+            "valor": 75.26,
+            "data_pagamento": "2017-06-01",
+            "media_consumo": 100
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 30,
+        "fields": {
+            "data_leitura_relogio": "2017-07-10",
+            "numero_leitura": 30030,
+            "kw": 541,
+            "valor": 297.58,
+            "data_pagamento": "2017-07-01",
+            "media_consumo": 106
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 31,
+        "fields": {
+            "data_leitura_relogio": "2017-08-10",
+            "numero_leitura": 30031,
+            "kw": 107,
+            "valor": 148.43,
+            "data_pagamento": "2017-08-01",
+            "media_consumo": 66
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 32,
+        "fields": {
+            "data_leitura_relogio": "2017-09-10",
+            "numero_leitura": 30032,
+            "kw": 153,
+            "valor": 187.29,
+            "data_pagamento": "2017-09-01",
+            "media_consumo": 126
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 33,
+        "fields": {
+            "data_leitura_relogio": "2017-10-10",
+            "numero_leitura": 30033,
+            "kw": 877,
+            "valor": 370.41,
+            "data_pagamento": "2017-10-01",
+            "media_consumo": 117
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 34,
+        "fields": {
+            "data_leitura_relogio": "2017-11-10",
+            "numero_leitura": 30034,
+            "kw": 521,
+            "valor": 0.7,
+            "data_pagamento": "2017-11-01",
+            "media_consumo": 110
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 35,
+        "fields": {
+            "data_leitura_relogio": "2017-12-10",
+            "numero_leitura": 30035,
+            "kw": 373,
+            "valor": 200.27,
+            "data_pagamento": "2017-12-01",
+            "media_consumo": 161
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 36,
+        "fields": {
+            "data_leitura_relogio": "2018-01-10",
+            "numero_leitura": 30036,
+            "kw": 188,
+            "valor": 53.43,
+            "data_pagamento": "2018-01-01",
+            "media_consumo": 75
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 37,
+        "fields": {
+            "data_leitura_relogio": "2018-02-10",
+            "numero_leitura": 30037,
+            "kw": 916,
+            "valor": 21.66,
+            "data_pagamento": "2018-02-01",
+            "media_consumo": 119
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 38,
+        "fields": {
+            "data_leitura_relogio": "2018-03-10",
+            "numero_leitura": 30038,
+            "kw": 320,
+            "valor": 737.96,
+            "data_pagamento": "2018-03-01",
+            "media_consumo": 144
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 39,
+        "fields": {
+            "data_leitura_relogio": "2018-04-10",
+            "numero_leitura": 30039,
+            "kw": 944,
+            "valor": 58.8,
+            "data_pagamento": "2018-04-01",
+            "media_consumo": 105
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 40,
+        "fields": {
+            "data_leitura_relogio": "2018-05-10",
+            "numero_leitura": 30040,
+            "kw": 183,
+            "valor": 97.71,
+            "data_pagamento": "2018-05-01",
+            "media_consumo": 76
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 41,
+        "fields": {
+            "data_leitura_relogio": "2018-06-10",
+            "numero_leitura": 30041,
+            "kw": 145,
+            "valor": 188.62,
+            "data_pagamento": "2018-06-01",
+            "media_consumo": 107
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 42,
+        "fields": {
+            "data_leitura_relogio": "2018-07-10",
+            "numero_leitura": 30042,
+            "kw": 265,
+            "valor": 144.81,
+            "data_pagamento": "2018-07-01",
+            "media_consumo": 63
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 43,
+        "fields": {
+            "data_leitura_relogio": "2018-08-10",
+            "numero_leitura": 30043,
+            "kw": 847,
+            "valor": 75.88,
+            "data_pagamento": "2018-08-01",
+            "media_consumo": 166
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 44,
+        "fields": {
+            "data_leitura_relogio": "2018-09-10",
+            "numero_leitura": 30044,
+            "kw": 390,
+            "valor": 516.96,
+            "data_pagamento": "2018-09-01",
+            "media_consumo": 111
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 45,
+        "fields": {
+            "data_leitura_relogio": "2018-10-10",
+            "numero_leitura": 30045,
+            "kw": 765,
+            "valor": 159.18,
+            "data_pagamento": "2018-10-01",
+            "media_consumo": 147
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 46,
+        "fields": {
+            "data_leitura_relogio": "2018-11-10",
+            "numero_leitura": 30046,
+            "kw": 469,
+            "valor": 295.79,
+            "data_pagamento": "2018-11-01",
+            "media_consumo": 77
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 47,
+        "fields": {
+            "data_leitura_relogio": "2018-12-10",
+            "numero_leitura": 30047,
+            "kw": 68,
+            "valor": 227.9,
+            "data_pagamento": "2018-12-01",
+            "media_consumo": 65
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 48,
+        "fields": {
+            "data_leitura_relogio": "2019-01-10",
+            "numero_leitura": 30048,
+            "kw": 970,
+            "valor": 439.81,
+            "data_pagamento": "2019-01-01",
+            "media_consumo": 65
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 49,
+        "fields": {
+            "data_leitura_relogio": "2019-02-10",
+            "numero_leitura": 30049,
+            "kw": 809,
+            "valor": 136.54,
+            "data_pagamento": "2019-02-01",
+            "media_consumo": 178
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 50,
+        "fields": {
+            "data_leitura_relogio": "2019-03-10",
+            "numero_leitura": 30050,
+            "kw": 699,
+            "valor": 320.34,
+            "data_pagamento": "2019-03-01",
+            "media_consumo": 167
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 51,
+        "fields": {
+            "data_leitura_relogio": "2019-04-10",
+            "numero_leitura": 30051,
+            "kw": 686,
+            "valor": 181.99,
+            "data_pagamento": "2019-04-01",
+            "media_consumo": 89
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 52,
+        "fields": {
+            "data_leitura_relogio": "2019-05-10",
+            "numero_leitura": 30052,
+            "kw": 895,
+            "valor": 101.91,
+            "data_pagamento": "2019-05-01",
+            "media_consumo": 115
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 53,
+        "fields": {
+            "data_leitura_relogio": "2019-06-10",
+            "numero_leitura": 30053,
+            "kw": 232,
+            "valor": 372.92,
+            "data_pagamento": "2019-06-01",
+            "media_consumo": 160
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 54,
+        "fields": {
+            "data_leitura_relogio": "2019-07-10",
+            "numero_leitura": 30054,
+            "kw": 798,
+            "valor": 392.4,
+            "data_pagamento": "2019-07-01",
+            "media_consumo": 173
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 55,
+        "fields": {
+            "data_leitura_relogio": "2019-08-10",
+            "numero_leitura": 30055,
+            "kw": 134,
+            "valor": 226.93,
+            "data_pagamento": "2019-08-01",
+            "media_consumo": 135
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 56,
+        "fields": {
+            "data_leitura_relogio": "2019-09-10",
+            "numero_leitura": 30056,
+            "kw": 637,
+            "valor": 588.51,
+            "data_pagamento": "2019-09-01",
+            "media_consumo": 111
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 57,
+        "fields": {
+            "data_leitura_relogio": "2019-10-10",
+            "numero_leitura": 30057,
+            "kw": 566,
+            "valor": 120.23,
+            "data_pagamento": "2019-10-01",
+            "media_consumo": 112
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 58,
+        "fields": {
+            "data_leitura_relogio": "2019-11-10",
+            "numero_leitura": 30058,
+            "kw": 139,
+            "valor": 101.42,
+            "data_pagamento": "2019-11-01",
+            "media_consumo": 79
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 59,
+        "fields": {
+            "data_leitura_relogio": "2019-12-10",
+            "numero_leitura": 30059,
+            "kw": 256,
+            "valor": 246.16,
+            "data_pagamento": "2019-12-01",
+            "media_consumo": 146
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 60,
+        "fields": {
+            "data_leitura_relogio": "2020-01-10",
+            "numero_leitura": 30060,
+            "kw": 76,
+            "valor": 92.17,
+            "data_pagamento": "2020-01-01",
+            "media_consumo": 97
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 61,
+        "fields": {
+            "data_leitura_relogio": "2020-02-10",
+            "numero_leitura": 30061,
+            "kw": 668,
+            "valor": 174.4,
+            "data_pagamento": "2020-02-01",
+            "media_consumo": 71
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 62,
+        "fields": {
+            "data_leitura_relogio": "2020-03-10",
+            "numero_leitura": 30062,
+            "kw": 132,
+            "valor": 235.61,
+            "data_pagamento": "2020-03-01",
+            "media_consumo": 143
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 63,
+        "fields": {
+            "data_leitura_relogio": "2020-04-10",
+            "numero_leitura": 30063,
+            "kw": 495,
+            "valor": 97.34,
+            "data_pagamento": "2020-04-01",
+            "media_consumo": 63
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 64,
+        "fields": {
+            "data_leitura_relogio": "2020-05-10",
+            "numero_leitura": 30064,
+            "kw": 872,
+            "valor": 102.42,
+            "data_pagamento": "2020-05-01",
+            "media_consumo": 58
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 65,
+        "fields": {
+            "data_leitura_relogio": "2020-06-10",
+            "numero_leitura": 30065,
+            "kw": 660,
+            "valor": 221.34,
+            "data_pagamento": "2020-06-01",
+            "media_consumo": 182
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 66,
+        "fields": {
+            "data_leitura_relogio": "2020-07-10",
+            "numero_leitura": 30066,
+            "kw": 947,
+            "valor": 2.53,
+            "data_pagamento": "2020-07-01",
+            "media_consumo": 196
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 67,
+        "fields": {
+            "data_leitura_relogio": "2020-08-10",
+            "numero_leitura": 30067,
+            "kw": 193,
+            "valor": 345.65,
+            "data_pagamento": "2020-08-01",
+            "media_consumo": 142
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 68,
+        "fields": {
+            "data_leitura_relogio": "2020-09-10",
+            "numero_leitura": 30068,
+            "kw": 317,
+            "valor": 758.62,
+            "data_pagamento": "2020-09-01",
+            "media_consumo": 146
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 69,
+        "fields": {
+            "data_leitura_relogio": "2020-10-10",
+            "numero_leitura": 30069,
+            "kw": 75,
+            "valor": 120.87,
             "data_pagamento": "2020-10-01",
-            "media_consumo": 50
+            "media_consumo": 63
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 70,
+        "fields": {
+            "data_leitura_relogio": "2020-11-10",
+            "numero_leitura": 30070,
+            "kw": 383,
+            "valor": 149.56,
+            "data_pagamento": "2020-11-01",
+            "media_consumo": 147
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 71,
+        "fields": {
+            "data_leitura_relogio": "2020-12-10",
+            "numero_leitura": 30071,
+            "kw": 441,
+            "valor": 772.17,
+            "data_pagamento": "2020-12-01",
+            "media_consumo": 171
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 72,
+        "fields": {
+            "data_leitura_relogio": "2021-01-10",
+            "numero_leitura": 30072,
+            "kw": 452,
+            "valor": 206.32,
+            "data_pagamento": "2021-01-01",
+            "media_consumo": 79
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 73,
+        "fields": {
+            "data_leitura_relogio": "2021-02-10",
+            "numero_leitura": 30073,
+            "kw": 262,
+            "valor": 501.78,
+            "data_pagamento": "2021-02-01",
+            "media_consumo": 64
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 74,
+        "fields": {
+            "data_leitura_relogio": "2021-03-10",
+            "numero_leitura": 30074,
+            "kw": 804,
+            "valor": 528.87,
+            "data_pagamento": "2021-03-01",
+            "media_consumo": 112
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 75,
+        "fields": {
+            "data_leitura_relogio": "2021-04-10",
+            "numero_leitura": 30075,
+            "kw": 296,
+            "valor": 483.85,
+            "data_pagamento": "2021-04-01",
+            "media_consumo": 54
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 76,
+        "fields": {
+            "data_leitura_relogio": "2021-05-10",
+            "numero_leitura": 30076,
+            "kw": 857,
+            "valor": 528.31,
+            "data_pagamento": "2021-05-01",
+            "media_consumo": 70
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 77,
+        "fields": {
+            "data_leitura_relogio": "2021-06-10",
+            "numero_leitura": 30077,
+            "kw": 850,
+            "valor": 119.42,
+            "data_pagamento": "2021-06-01",
+            "media_consumo": 159
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 78,
+        "fields": {
+            "data_leitura_relogio": "2021-07-10",
+            "numero_leitura": 30078,
+            "kw": 704,
+            "valor": 19.34,
+            "data_pagamento": "2021-07-01",
+            "media_consumo": 89
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 79,
+        "fields": {
+            "data_leitura_relogio": "2021-08-10",
+            "numero_leitura": 30079,
+            "kw": 895,
+            "valor": 284.38,
+            "data_pagamento": "2021-08-01",
+            "media_consumo": 168
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 80,
+        "fields": {
+            "data_leitura_relogio": "2021-09-10",
+            "numero_leitura": 30080,
+            "kw": 283,
+            "valor": 174.08,
+            "data_pagamento": "2021-09-01",
+            "media_consumo": 109
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 81,
+        "fields": {
+            "data_leitura_relogio": "2021-10-10",
+            "numero_leitura": 30081,
+            "kw": 959,
+            "valor": 86.32,
+            "data_pagamento": "2021-10-01",
+            "media_consumo": 74
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 82,
+        "fields": {
+            "data_leitura_relogio": "2021-11-10",
+            "numero_leitura": 30082,
+            "kw": 563,
+            "valor": 15.17,
+            "data_pagamento": "2021-11-01",
+            "media_consumo": 156
+        }
+    },
+    {
+        "model": "contas.Conta",
+        "pk": 83,
+        "fields": {
+            "data_leitura_relogio": "2021-12-10",
+            "numero_leitura": 30083,
+            "kw": 534,
+            "valor": 73.98,
+            "data_pagamento": "2021-12-01",
+            "media_consumo": 83
         }
     }
 ]
