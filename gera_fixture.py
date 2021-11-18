@@ -20,7 +20,7 @@ for id in range(LENGTH):
             'data_leitura_relogio': gera_data(10),
             'numero_leitura': 30000 + id,
             'kw': random.randint(50, 1000),
-            'valor': round(random.random() * random.randint(40, 1000), 2),
+            'valor': round(random.random() * random.randint(0, 1000) + 40, 2),
             'data_pagamento': gera_data(1),
             'media_consumo': random.randint(50, 200)
         }
