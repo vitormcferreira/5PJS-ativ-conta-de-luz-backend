@@ -21,7 +21,7 @@ class ContaPagination(PageNumberPagination):
 
 
 class ContaViewSet(viewsets.ModelViewSet):
-    queryset = Conta.objects.all()
+    queryset = Conta.objects.all().order_by('-data_leitura_relogio')
     serializer_class = ContaSerializer
     pagination_class = ContaPagination
 
