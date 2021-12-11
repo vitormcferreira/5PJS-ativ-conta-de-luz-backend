@@ -7,8 +7,8 @@ class Conta(models.Model):
         verbose_name = 'Conta de Luz'
 
     data_leitura_relogio = models.DateField()
-    numero_leitura = models.IntegerField()
-    kw = models.IntegerField()
+    numero_leitura = models.PositiveIntegerField()
+    kw = models.PositiveIntegerField()
     valor = models.FloatField()
     data_pagamento = models.DateField()
     media_consumo = models.FloatField()
