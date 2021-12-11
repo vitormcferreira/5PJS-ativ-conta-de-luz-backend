@@ -31,3 +31,6 @@ As informações a seguir se referem à planilha Excel de um usuário, que contr
     python manage.py runserver
 
 Após iniciar o servidor, ele estará disponível em `http://locahost:8000` .
+
+## TODO
+  - Gerar documentação OpenAPI
