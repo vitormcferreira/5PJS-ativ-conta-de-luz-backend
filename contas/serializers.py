@@ -17,3 +17,10 @@ class ContaSerializer(serializers.HyperlinkedModelSerializer):
             'data_pagamento',
             'media_consumo',
         ]
+    data_leitura_relogio = serializers.DateField(
+        input_formats=['%d/%m/%Y'])
+    kw = serializers.FloatField(min_value=0)
+    valor = serializers.FloatField(min_value=0)
+    data_pagamento = serializers.DateField(
+        input_formats=['%d/%m/%Y'])
+    media_consumo = serializers.FloatField(min_value=0)
