@@ -32,5 +32,7 @@ As informações a seguir se referem à planilha Excel de um usuário, que contr
 
 Após iniciar o servidor, ele estará disponível em `http://locahost:8000` .
 
+Para que a aplicação funcione correntamente é preciso do [frontend](https://github.com/vitormcferreira/5PJS-ativ-conta-de-luz-frontend).
+
 ## TODO
   - Gerar documentação OpenAPI
